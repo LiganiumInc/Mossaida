@@ -1,0 +1,100 @@
+﻿Ouvrir le dossier  Bobo 
+Lister le  dossier  Documents 
+Ouvrir le fichier   algo.txt 
+écrire dans le fichier  algo.txt 
+Augmenter le volume de  5% 
+Dimunier le son de  5% 
+Augmenter la luminosité de  0.5 
+Dimunier luminosité de  1.5 
+Lire le fichier  toto.pdf 
+Couper le fichier  rayon.py  et le déplacer dans le dossier  Bureau 
+Supprimer le fichier  najoua.png 
+créer le fichier  love.txt 
+créer un dossier  Papa 
+baisser le volume de  30% 
+diminuer la luminosité de  3% , puis ouvrir le fichier  document.pdf 
+Se déplacer dans le dossier  Bern  puis lister les éléments du dossier Bern
+renommer le fichier  corner.py  en  cor.py  
+déplacer le fichier cor.py dans le dossier  tactique 
+créer le dossier  Succès
+lancer le navigateur  google-chrome
+lancer application  terminal 
+lancer application  gedit  
+renommer le fichier  computer.txt en cmp.txt
+créer le dossier  UM6P 
+renommer le dossier  Livre 
+ouvrir le fichier  jada.txt  
+fermer application  google-chrome 
+fermer le fichier  rmc.txt 
+écrire dans le fichier  manger.py 
+fermer application  gedit  puis créer le dossier  Maman 
+ouvrir le fichier  blabla.txt  , lire le fichier  blabla.txt , fermer le fichier  blabla.txt 
+ouvrir apllication  google-chrome , aller sur le site  liganium.org  puis fermer application  google-chrome 
+supprimer le fichier  blabla.txt 
+supprimer le dossier  choco 
+créer le dossier  IA , se déplacer dans le dossier  IA , et créer le fichier  ML.txt  
+se déplacer dans le dossier  Trie , lister les éléments du dossier  Trie  
+supprimer  le fichier  cobem.txt
+Ouvrir le dossier  Dow
+écrire dans le fichier  python.txt
+Augmenter le volume de  4%
+Lister le dossier  Dow
+Augmenter la luminosité de  0.5
+Diminuer le son de  1%
+Lire le fichier  cplus.txt
+Ouvrir le dossier  bibi
+Diminuer le son de  5%
+Augmenter la luminosité de  0.5
+Lister le dossier  bibi
+écrire dans le fichier  cplus.txt
+Diminuer luminosité de  0.9
+Augmenter le volume de  20%
+Diminuer luminosité de  1.5
+Ouvrir le dossier  Doc
+Augmenter la luminosité de  0.6
+Augmenter le volume de  10%
+Diminuer la luminosité de  1.0
+Lister le dossier  Doc
+Lire le fichier  home.pdf
+écrire dans le fichier  sql.txt
+Diminuer la luminosité de  0.5 
+Diminuer le son de  50%
+Augmenter la luminosité de  0.3
+Ouvrir le dossier  toto
+Lister le dossier  toto
+écrire dans le fichier  home.txt 
+Augmenter le volume de  1%
+Diminuer le son de  2%
+Ouvrir le dossier  ber
+Lister le dossier  Ber
+écrire dans le fichier  exercice.txt
+Diminuer le son de  5%
+Ouvrir le dossier  Bor
+Supprimer le fichier  file.txt
+Ouvrir le dossier China
+Ouvrir le fichier laptop
+supprimer le dossier NAjoua
+créer le dossier USA
+créer le fichier William
+lister les éléments du dossier Mayar
+lister le contenu du dossier Youpi
+écrire dans le fichier Mit.csv
+ouvrir le dossier system
+supprimer le fichier jaccard.pdf
+diminuer la luminosité de 0.5
+descendre le volume de 50%
+fermer le dossier darogier
+fermer le fichier mouv.txt
+supprimer le dossier Calab
+créer un fichier Zoo.txt
+créer un dossier Kaleb
+lister le dossier Berber
+déplacer le fichier toto dans le dossier Nelson
+supprimer le dossier Aurel
+Supprimer le fichier Desire
+augmenter le volume de 60%
+copier le fichier amour dans le dossier haine
+ouvrir le fichier keldi.txt
+ouvrir le dossier Morse
+copier le dossier ML vers le dossier DL
+lister le dossier love
