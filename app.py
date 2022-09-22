@@ -8,7 +8,7 @@ import pyaudio
 
 # Load Speech Recognition
 from vosk import Model, KaldiRecognizer 
-model = Model("vosk-model-fr-0.22")
+model = Model("vosk-model-small-fr-0.22")
 
 # NER
 import spacy
