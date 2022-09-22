@@ -45,3 +45,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+A web interface will be open in your browser on http://localhost:8501 and your microphone will be activate. Then, speak some commands like those in file data_train.txt (see NER folder). You can look logs in real time in your terminal. 
