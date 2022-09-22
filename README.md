@@ -3,8 +3,10 @@
 ---
 ## :scroll: Presentation
 Mossaida is an APP powered by NLP (Natural Language Processing)  to help people with reduced mobility in Human-Machine interactions. For the moment these application is just available for french langage.  <br>
-In a nutshell, the app is able to get the user voice and execute its commands. 
-![app_gif](cardamage.gif)
+In a nutshell, the app is able to get the user voice and execute its commands.  <br>
+
+
+![workflow](solution.png)
 
 :arrow_right: List of possible commands : <br>
 
@@ -18,8 +20,15 @@ In a nutshell, the app is able to get the user voice and execute its commands.
 - augmenter/ diminuer le volume
 - augmenter / diminuer la luminosité de l’écran
 
+## NER (Name Entity Recognition)
+To achieve our goal, we build a NER model with [Spacy](https://spacy.io/) on our own dataset and Entities (`ACTION`, `CIBLE`, `VALEUR`). The details about model training are in the NER folder. <br> 
+To tag the dataset with our own entities we use [NER ANNOTATOR](https://tecoholic.github.io/ner-annotator/) and the results are stored in the file `annotations.json`
 ## How to run the APP 
+* Install portaudio
 
+```
+sudo apt install portaudio19-dev 
+```
 * Clone this repository 
 ```
 git clone https://github.com/LiganiumInc/Mossaida.git
