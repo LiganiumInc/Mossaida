@@ -1,6 +1,6 @@
 import streamlit as st 
 from streamlit_lottie import st_lottie
-from utils import load_lottieur
+from utils import load_lottieur, exe_cmd
 
 import subprocess
 import pyaudio 

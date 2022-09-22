@@ -1,3 +1,4 @@
+import shlex, subprocess
 
 import requests
 
@@ -7,3 +8,8 @@ def load_lottieur(url):
         return None
     return r.json()
 
+
+def exe_cmd(command_line):
+    args = shlex.split(command_line)
+    print(args)
+    p = subprocess.Popen(args)    
