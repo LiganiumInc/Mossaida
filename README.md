@@ -22,5 +22,17 @@ In a nutshell, the app is able to get the user voice and execute its commands.
 
 * Clone this repository 
 ```
-git clone 
+git clone https://github.com/LiganiumInc/Mossaida.git
+cd Mossaida
+```
+* Create a virtual environment and  install required libraries
+```
+python -m venv env 
+source env/bin/activate
+pip install -r requirements.txt
+```
+* Download the Vosk model for Speech-to-Text [here](https://alphacephei.com/vosk/models/vosk-model-small-fr-0.22.zip) and unzip it in this directory 
+* Run the app
+```
+streamlit run app.py
 ```
